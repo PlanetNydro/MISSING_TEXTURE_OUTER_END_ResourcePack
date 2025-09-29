@@ -5,7 +5,7 @@ This resource pack changes the textures of chorus plants, purpur blocks and shul
 
 This was intended to be a companion to the Renderdragon pack, but its also its own thing.
 
-Currently works with version 1.21.5
+Currently works with version 1.21.8
 
 
 [PlanetMinecraft Page](https://www.planetminecraft.com/texture-pack/missing-outer-end/)
